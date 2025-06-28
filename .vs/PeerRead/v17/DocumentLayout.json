@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_accepted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\acl_accepted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\code\\aspect_predict\\annotation_full.tsv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code\\aspect_predict\\annotation_full.tsv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_2017\\train\\parsed_pdfs\\12.pdf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\acl_2017\\train\\parsed_pdfs\\12.pdf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_2017\\train\\reviews\\12.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\acl_2017\\train\\reviews\\12.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_2017\\test\\parsed_pdfs\\49.pdf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\acl_2017\\test\\parsed_pdfs\\49.pdf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_2017\\test\\reviews\\49.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\acl_2017\\test\\reviews\\49.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\code\\accept_classify\\classify.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code\\accept_classify\\classify.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\code\\accept_classify\\run_classify.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code\\accept_classify\\run_classify.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\code\\accept_classify\\run_featurize_classify.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:code\\accept_classify\\run_featurize_classify.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "acl_accepted.txt",
+              "DocumentMoniker": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_accepted.txt",
+              "RelativeDocumentMoniker": "data\\acl_accepted.txt",
+              "ToolTip": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_accepted.txt",
+              "RelativeToolTip": "data\\acl_accepted.txt",
+              "ViewState": "AgIAACIIAAAAAAAAAAAMwHUKAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-16T21:11:25.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "annotation_full.tsv",
+              "DocumentMoniker": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\code\\aspect_predict\\annotation_full.tsv",
+              "RelativeDocumentMoniker": "code\\aspect_predict\\annotation_full.tsv",
+              "ToolTip": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\code\\aspect_predict\\annotation_full.tsv",
+              "RelativeToolTip": "code\\aspect_predict\\annotation_full.tsv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-16T21:09:40.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "49.pdf.json",
+              "DocumentMoniker": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_2017\\test\\parsed_pdfs\\49.pdf.json",
+              "RelativeDocumentMoniker": "data\\acl_2017\\test\\parsed_pdfs\\49.pdf.json",
+              "ToolTip": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_2017\\test\\parsed_pdfs\\49.pdf.json",
+              "RelativeToolTip": "data\\acl_2017\\test\\parsed_pdfs\\49.pdf.json",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCcAAACdAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T21:09:18.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "49.json",
+              "DocumentMoniker": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_2017\\test\\reviews\\49.json",
+              "RelativeDocumentMoniker": "data\\acl_2017\\test\\reviews\\49.json",
+              "ToolTip": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_2017\\test\\reviews\\49.json",
+              "RelativeToolTip": "data\\acl_2017\\test\\reviews\\49.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T21:09:06.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "12.json",
+              "DocumentMoniker": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_2017\\train\\reviews\\12.json",
+              "RelativeDocumentMoniker": "data\\acl_2017\\train\\reviews\\12.json",
+              "ToolTip": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_2017\\train\\reviews\\12.json",
+              "RelativeToolTip": "data\\acl_2017\\train\\reviews\\12.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T21:08:12.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "12.pdf.json",
+              "DocumentMoniker": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_2017\\train\\parsed_pdfs\\12.pdf.json",
+              "RelativeDocumentMoniker": "data\\acl_2017\\train\\parsed_pdfs\\12.pdf.json",
+              "ToolTip": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\data\\acl_2017\\train\\parsed_pdfs\\12.pdf.json",
+              "RelativeToolTip": "data\\acl_2017\\train\\parsed_pdfs\\12.pdf.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T19:44:58.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "run_featurize_classify.sh",
+              "DocumentMoniker": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\code\\accept_classify\\run_featurize_classify.sh",
+              "RelativeDocumentMoniker": "code\\accept_classify\\run_featurize_classify.sh",
+              "ToolTip": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\code\\accept_classify\\run_featurize_classify.sh",
+              "RelativeToolTip": "code\\accept_classify\\run_featurize_classify.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-06-16T19:19:04.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "run_classify.sh",
+              "DocumentMoniker": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\code\\accept_classify\\run_classify.sh",
+              "RelativeDocumentMoniker": "code\\accept_classify\\run_classify.sh",
+              "ToolTip": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\code\\accept_classify\\run_classify.sh",
+              "RelativeToolTip": "code\\accept_classify\\run_classify.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-06-16T19:19:02.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "classify.py",
+              "DocumentMoniker": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\code\\accept_classify\\classify.py",
+              "RelativeDocumentMoniker": "code\\accept_classify\\classify.py",
+              "ToolTip": "C:\\Users\\G34371231\\OneDrive - The George Washington University\\Desktop\\PeerRead\\code\\accept_classify\\classify.py",
+              "RelativeToolTip": "code\\accept_classify\\classify.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-16T19:19:01.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\code",
+    "\\code\\accept_classify",
+    "\\code\\aspect_predict",
+    "\\data",
+    "\\data\\acl_2017",
+    "\\data\\acl_2017\\train",
+    "\\data\\acl_2017\\train\\parsed_pdfs",
+    "\\data\\iclr_2017",
+    "\\data\\iclr_2017\\train"
+  ],
+  "SelectedNode": "\\data\\acl_2017\\train\\parsed_pdfs\\12.pdf.json",
+  "PreviewInSolutionExplorer": false
+}
